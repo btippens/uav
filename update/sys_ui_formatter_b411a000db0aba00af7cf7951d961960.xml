@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_formatter">
+    <sys_ui_formatter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <angular_module/>
+        <formatter>uav_attachment_macro</formatter>
+        <name>uav_application_formatter</name>
+        <sys_class_name>sys_ui_formatter</sys_class_name>
+        <sys_created_by>jnedroscik</sys_created_by>
+        <sys_created_on>2017-04-05 18:33:47</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>b411a000db0aba00af7cf7951d961960</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>uav_application_formatter</sys_name>
+        <sys_package display_value="UAV Application" source="x_uota5_uav_applic">fd2d5135db6db2003e5df9261d961942</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="UAV Application">fd2d5135db6db2003e5df9261d961942</sys_scope>
+        <sys_update_name>sys_ui_formatter_b411a000db0aba00af7cf7951d961960</sys_update_name>
+        <sys_updated_by>jnedroscik</sys_updated_by>
+        <sys_updated_on>2017-04-05 18:42:53</sys_updated_on>
+        <table>x_uota5_uav_applic_uav_application_table</table>
+        <type>formatter</type>
+    </sys_ui_formatter>
+</record_update>

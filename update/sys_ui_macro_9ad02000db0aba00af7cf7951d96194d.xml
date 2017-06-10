@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_macro">
+    <sys_ui_macro action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <description>Paperclip icon button that allows attachment of files to a uav application.</description>
+        <media_type/>
+        <name>uav_attachment_macro</name>
+        <scoped_name>x_uota5_uav_applic_uav_attachment_macro</scoped_name>
+        <sys_class_name>sys_ui_macro</sys_class_name>
+        <sys_created_by>jnedroscik</sys_created_by>
+        <sys_created_on>2017-04-05 18:32:18</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>9ad02000db0aba00af7cf7951d96194d</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>uav_attachment_macro</sys_name>
+        <sys_package display_value="UAV Application" source="x_uota5_uav_applic">fd2d5135db6db2003e5df9261d961942</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="UAV Application">fd2d5135db6db2003e5df9261d961942</sys_scope>
+        <sys_update_name>sys_ui_macro_9ad02000db0aba00af7cf7951d96194d</sys_update_name>
+        <sys_updated_by>jnedroscik</sys_updated_by>
+        <sys_updated_on>2017-04-05 19:13:39</sys_updated_on>
+        <xml><![CDATA[<?xml version="1.0" encoding="utf-8" ?>  
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">  
+    <button id="custom_add_attachment" type="button" onclick="saveAttachment(g_form.getTableName(), g_form.getUniqueValue());" class="icon-button icon-paperclip" title="Add attachments...">
+		<b> Attach Certificate of Waiver or Authorization (COA), and/or other files. </b></button>  
+</j:jelly> ]]></xml>
+    </sys_ui_macro>
+</record_update>
