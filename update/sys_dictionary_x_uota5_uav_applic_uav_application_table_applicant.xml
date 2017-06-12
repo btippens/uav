@@ -3,7 +3,6 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="applicant" table="x_uota5_uav_applic_uav_application_table">
         <active>true</active>
         <array>false</array>
-        <array_denormalized>false</array_denormalized>
         <attributes>ref_contributions=user_show_incidents</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
@@ -53,16 +52,16 @@
         <sys_created_by>jnedroscik</sys_created_by>
         <sys_created_on>2017-04-24 14:48:16</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>f993ed42db5afa803e5df9261d9619c3</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_id>07395d35dbdb3200af7cf7951d961921</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Applicant</sys_name>
         <sys_package display_value="UAV Application" source="x_uota5_uav_applic">fd2d5135db6db2003e5df9261d961942</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="UAV Application">fd2d5135db6db2003e5df9261d961942</sys_scope>
         <sys_update_name>sys_dictionary_x_uota5_uav_applic_uav_application_table_applicant</sys_update_name>
-        <sys_updated_by>jnedroscik</sys_updated_by>
-        <sys_updated_on>2017-04-24 15:13:18</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-06-12 12:26:09</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

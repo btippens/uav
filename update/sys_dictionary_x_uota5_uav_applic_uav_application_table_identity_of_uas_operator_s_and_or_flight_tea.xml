@@ -3,7 +3,6 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="identity_of_uas_operator_s_and_or_flight_team" table="x_uota5_uav_applic_uav_application_table">
         <active>true</active>
         <array>false</array>
-        <array_denormalized>false</array_denormalized>
         <attributes/>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
@@ -53,16 +52,16 @@
         <sys_created_by>sdussault</sys_created_by>
         <sys_created_on>2017-03-17 15:03:09</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>350a31b5dbadb2003e5df9261d961904</sys_id>
+        <sys_id>1b395d35dbdb3200af7cf7951d96192d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Identity of UAS operator(s) and/or flight team.</sys_name>
         <sys_package display_value="UAV Application" source="x_uota5_uav_applic">fd2d5135db6db2003e5df9261d961942</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="UAV Application">fd2d5135db6db2003e5df9261d961942</sys_scope>
-        <sys_update_name>sys_dictionary_x_uota5_uav_applic_uav_application_table_identity_of_uas_operator_s_and_or_flight_team</sys_update_name>
-        <sys_updated_by>jnedroscik</sys_updated_by>
-        <sys_updated_on>2017-04-10 20:52:14</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_uota5_uav_applic_uav_application_table_identity_of_uas_operator_s_and_or_flight_tea</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-06-12 12:26:13</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

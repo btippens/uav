@@ -7,7 +7,7 @@
         <sys_class_name>sys_scope_privilege</sys_class_name>
         <sys_created_by>btippens</sys_created_by>
         <sys_created_on>2017-05-03 12:33:26</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>7d5b1b7cdbe23ec03e5df9261d9619f3</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>GlideRecord.deleteMultiple</sys_name>

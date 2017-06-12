@@ -42,7 +42,7 @@
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>jnedroscik</sys_created_by>
         <sys_created_on>2017-04-25 16:28:20</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>ea44cf92db56b640af7cf7951d961973</sys_id>
         <sys_mod_count>0</sys_mod_count>

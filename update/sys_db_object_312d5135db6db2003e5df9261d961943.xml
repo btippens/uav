@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>sdussault</sys_created_by>
         <sys_created_on>2017-03-17 12:53:17</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>312d5135db6db2003e5df9261d961943</sys_id>
         <sys_mod_count>5</sys_mod_count>
         <sys_name>UAV Application Table</sys_name>
@@ -32,7 +32,6 @@
         <sys_update_name>sys_db_object_312d5135db6db2003e5df9261d961943</sys_update_name>
         <sys_updated_by>jnedroscik</sys_updated_by>
         <sys_updated_on>2017-05-03 18:57:33</sys_updated_on>
-        <u_status/>
         <update_access>true</update_access>
         <user_role display_value="x_uota5_uav_applic.user" name="x_uota5_uav_applic.user">8a2dd9b9db6db2003e5df9261d9619d6</user_role>
         <ws_access>true</ws_access>

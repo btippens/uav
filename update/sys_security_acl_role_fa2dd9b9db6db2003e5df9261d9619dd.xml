@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>sdussault</sys_created_by>
         <sys_created_on>2017-03-17 12:53:18</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>fa2dd9b9db6db2003e5df9261d9619dd</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_uota5_uav_applic_uav_application_table.x_uota5_uav_applic.user</sys_name>

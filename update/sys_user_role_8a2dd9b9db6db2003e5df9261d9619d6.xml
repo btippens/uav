@@ -13,7 +13,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>sdussault</sys_created_by>
         <sys_created_on>2017-03-17 12:53:14</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>8a2dd9b9db6db2003e5df9261d9619d6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_uota5_uav_applic.user</sys_name>

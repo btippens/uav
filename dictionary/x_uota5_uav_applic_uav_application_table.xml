@@ -7,7 +7,7 @@
                 <element label="University (faculty, staff, graduate associate, or student)" value="University (faculty, staff, graduate associate, or student)"/>
             </choice>
         </element>
-        <element attributes="ref_contributions=user_show_incidents" calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" default="javascript:gs.getUserID();" dependent="company" dependent_on_field="company" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Applicant" max_length="32" name="applicant" reference="sys_user" type="reference" use_dependent_field="true" use_dynamic_default="true"/>
+        <element attributes="ref_contributions=user_show_incidents" default="javascript:gs.getUserID();" dependent="company" dependent_on_field="company" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Applicant" max_length="32" name="applicant" reference="sys_user" type="reference" use_dependent_field="true" use_dynamic_default="true"/>
         <element default="javascript:var cDate = new GlideDateTime(); cDate = cDate.getDate()" label="Today's Date" max_length="40" name="application_submission_date" type="glide_date"/>
         <element default="javascript:gs.getUserID.getBusinessPhoneNumber()" label="Business Phone" max_length="20" name="business_phone" type="string"/>
         <element default="javascript:gs.getUser().city" dynamic_default_value="dd016209dbda7e403e5df9261d9619bb" label="City" mandatory="true" max_length="40" name="city" type="string" use_dynamic_default="true"/>
@@ -39,7 +39,7 @@
         <element label="State" mandatory="true" max_length="40" name="state" type="string"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <element display="true" label="Type/Model of UAS" mandatory="true" max_length="30" name="type_model_of_uas" type="string"/>
-        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" default="javascript:gs.getUser().getDepartmentID()" dynamic_ref_qual="c5056264d711210032d7a3b20e610375" label="UT Department or Sponsor/Organization" mandatory="true" max_length="100" name="ut_department_or_sponsor_organization" reference="sys_user" reference_qual="javascript:new PAUtils().getContributors()" type="string" use_reference_qualifier="dynamic"/>
+        <element default="javascript:gs.getUser().getDepartmentID()" dynamic_ref_qual="c5056264d711210032d7a3b20e610375" label="UT Department or Sponsor/Organization" mandatory="true" max_length="100" name="ut_department_or_sponsor_organization" reference="sys_user" reference_qual="javascript:new PAUtils().getContributors()" type="string" use_reference_qualifier="dynamic"/>
         <element label="Video recorded during flight" max_length="5" name="video_recorded_during" type="boolean"/>
         <element label="Weight" max_length="5" name="weight" type="integer"/>
         <element label="Zip" mandatory="true" max_length="40" name="zip" type="string"/>

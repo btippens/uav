@@ -10,7 +10,7 @@
         <sys_class_name>sys_ui_macro</sys_class_name>
         <sys_created_by>jnedroscik</sys_created_by>
         <sys_created_on>2017-04-05 18:32:18</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>9ad02000db0aba00af7cf7951d96194d</sys_id>
         <sys_mod_count>6</sys_mod_count>
         <sys_name>uav_attachment_macro</sys_name>

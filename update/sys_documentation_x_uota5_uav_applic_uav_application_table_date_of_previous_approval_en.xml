@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>jnedroscik</sys_created_by>
             <sys_created_on>2017-03-31 21:26:04</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>fac85b9edbf53a003e5df9261d96191e</sys_id>
             <sys_mod_count>1</sys_mod_count>
             <sys_name>If Yes, Date of Previous Approval</sys_name>
